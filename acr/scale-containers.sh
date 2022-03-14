@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # create a virtual network
 az network vnet create -g 409-d2fde91e-create-an-aks-cluster-that-uses-azure \
 -n myVnet \

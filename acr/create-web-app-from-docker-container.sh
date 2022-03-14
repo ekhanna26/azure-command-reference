@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Create & Run Web App in a container from ACR registry using Azure CLI
 
 # variables

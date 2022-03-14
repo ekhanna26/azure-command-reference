@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Build and Run Container with ACR Task using Azure CLI
 
 # variables
